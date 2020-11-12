@@ -1,2 +1,3 @@
 # hello-world
-the first GitHub file I have ever created
+This is the first GitHub file I have ever created.
+I love pizza.
